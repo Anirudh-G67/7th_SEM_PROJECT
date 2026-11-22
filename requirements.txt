@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+SpeechRecognition
+ollama
+pydantic
+PyAudio
